@@ -1,6 +1,8 @@
 # IP-PBX-with-Asterisk
 Cấu hình tổng đài Asterisk sử dụng cho VoIP
 
+*Link Youtube: https://youtu.be/f0E6qpR2uK0
+
 *Kịch bản:
 Công ty BEdu thiết lập tổng đài tự động với thông tin như sau:
 
